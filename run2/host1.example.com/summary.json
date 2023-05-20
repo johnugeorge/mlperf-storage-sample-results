@@ -1,0 +1,33 @@
+{
+    "start": "2023-05-20T19:11:33.901665",
+    "num_accelerators": 1,
+    "hostname": "host1.example.com",
+    "metric": {
+        "train_au_percentage": [
+            99.76950890368587,
+            99.75991439006484,
+            99.77539836772316,
+            99.77508723077608,
+            99.72369921800235
+        ],
+        "train_au_mean_percentage": 99.76072162205045,
+        "train_au_meet_expectation": "success",
+        "train_au_stdev_percentage": 0.019340651080657464,
+        "train_throughput_samples_per_second": [
+            2.8131836055464663,
+            2.831807855251823,
+            2.8422898277659256,
+            2.834139743288255,
+            2.8358059252621874
+        ],
+        "train_throughput_mean_samples_per_second": 2.8314453914229314,
+        "train_throughput_stdev_samples_per_second": 0.009772407997621047,
+        "train_io_mean_MB_per_second": 633.379211971465,
+        "train_io_stdev_MB_per_second": 2.1860354769145953
+    },
+    "num_files_train": 100,
+    "num_files_eval": 0,
+    "num_samples_per_file": 1,
+    "epochs": 5,
+    "end": "2023-05-20T19:14:31.846741"
+}
