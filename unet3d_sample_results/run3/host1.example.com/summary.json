@@ -1,4 +1,5 @@
 {
+    "model": "unet3d",
     "start": "2023-05-20T19:14:50.340909",
     "num_accelerators": 1,
     "hostname": "host1.example.com",
